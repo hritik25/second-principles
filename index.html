@@ -1,0 +1,370 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<!-- saved from url=(0084)http://rawgit.com/start-angular/ani-theme/master/dist/index.html#/dashboard/overview -->
+<html class="no-js">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" href="./css/font-awesome.min.css">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic, 400italic, 600italic, 400, 300, 600">
+		<title>Hritik Jain</title> 
+		<meta name="description"> <meta name="viewport" content="width=device-width">  <link rel="stylesheet" href="./css/main.css">
+
+	</head> 
+	<body ng-app="yapp" class="ng-scope"> 
+		<!--[if lt IE 7]>
+    	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+ 		<![endif]-->  
+ 		<div> <!-- uiView:  -->
+ 			<div ui-view="" class="ng-scope">
+ 				<div class="ui-base ng-scope"> <!-- uiView:  -->
+ 					<div ui-view="" class="ng-scope">
+ 						<div class="dashboard-page ng-scope"> 
+ 							<div class="container-fluid"> 
+ 								<div class="row"> 
+ 									<div class="col-sm-3 col-md-2 sidebar"> 
+ 										<div class="text-center"> 
+ 											<h2 class="brand">Hritik Jain <!-- <small>Free Edition</small> -->
+ 											</h2> 
+ 											<img src="./Photo.jpg" class="user-avatar"><br> 
+ 										</div> 
+ 										<ul class="nav nav-sidebar"> 
+ 											<li ng-class="{active: $state.includes(&#39;overview&#39;)}" class="">
+ 												<a  onclick="myFunction('aboutMe')">About
+ 												</a>
+ 											</li> 
+ 											<li ng-class="{active: $state.includes(&#39;reports&#39;)}" class="">
+ 												<a  onclick="myFunction('project')">Projects
+ 												</a>
+ 											</li>
+ 											<li ng-class="{active: $state.includes(&#39;reports&#39;)}" class="">
+ 												<a   onclick="myFunction('inspiration')">Inspiration
+ 												</a>
+ 											</li>
+ 											<li ng-class="{active: $state.includes(&#39;reports&#39;)}" class="">
+ 												<a   onclick="myFunction('interests')">Interests
+ 												</a>
+ 											</li>
+ 											<li>
+ 												<a target="_blank" href="https://linkedin.com/in/hritik-jain-961998b3" class="">
+ 													<i class="fa fa-linkedin-square" aria-hidden="true">
+ 													</i>
+													LinkedIn Profile
+ 												</a>
+ 											</li>
+ 											<li>
+	 											<a target="_blank" href="https://drive.google.com/open?id=0B4Z2WMJh0DB6cnhiOTRwbXM4Y2M" class="">
+ 													<i class="fa fa-file" aria-hidden="true">
+ 													</i>
+													Resume
+	 											</a>
+ 											</li>
+ 											<li>
+ 												<a target="_blank" href="https://github.com/hritik25" class="">
+ 													<i class="fa fa-github" aria-hidden="true">
+ 													</i>
+													Github
+ 												</a>
+ 											</li>
+ 											<!-- <li>
+ 												<a href="http://startreact.com/product/ani-theme/">Free React version</a>
+ 											</li> 
+ 											<li>
+ 												<a href="http://www.strapui.com/ani-angularjs-theme">Angular Premium Edition
+ 												</a>
+ 											</li> --> 
+ 										</ul> 
+ 									</div> <!-- uiView:  -->
+ 									<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main ng-scope" ui-view="">
+ 										<div class="ng-scope">  
+ 											<div> . 											</div> 
+ 											<div class="jumbotron" id="aboutMe" style="display: block;"> 
+ 												<div class="container"> 
+ 													<h2>About Me</h2><br>
+ 													<div class="col-md-10" style="font-size:18px"> 
+ 													I am a final year undergraduate student in the Dept. of Computer Science & Engineering, IIT(BHU). My interests lie in the field of Machine Learning and more recently, I have developed a keen research interest for Deep Learning architectures for Computer Vision and NLP tasks. I have had the opportunity to work under <a target="_blank" href="https://www.linkedin.com/in/vijay-kulkarni-3855b62">Vijay Kulkarni </a> as an intern in Arista Networks. <a target="_blank" href="http://www.iitbhu.ac.in/cse/index.php/people/faculty/30.html">Dr. K. K. Shukla</a> is my supervisor for the B.Tech. Project. I am currently also involved in a research project with Dr.S.K. Pal (<a target="_blank" href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwiQkP7Ml-LRAhXGr48KHWmoDnkQFggwMAI&url=http%3A%2F%2Fwww.drdo.gov.in%2F&usg=AFQjCNEaFBahmXOJWYR8t-Bhy9NdB0yYGw">DRDO, New Delhi</a>).<br><br>
+													The excitement for the future of Intelligence, Artificial Intelligence and its intersection with Neuroscience drives me to pursue a career in research in these areas.<br><br> 
+
+ 													</div>
+ 													<!-- <div class="col-md-4">
+ 														<img src="./fon.jpg" width="300px"alt="">
+ 													</div> -->
+ 													 
+ 												</div> 
+ 											
+ 											</div>
+
+ 											<div id="project" style="display: none;">
+
+ 												<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														Fake Currency Note Identification Using Deep Convolutional Neural Networks
+	 													</h3>
+	 													<div class="">
+															Under the mentorship of Dr. S.K. Pal at <b>DRDO</b>(Defence Research & Development Organization of India), New Delhi, we examined the feasibility of learning security features of the new Indian currency notes using a Deep Learning model. Created synthetic datasets of real and fake currency note images of ₹2000, ₹500 (~1600, ~7000 images respectively). Used a VGG-16 Convolutional Neural Network model pre-trained on ImageNet (~14 million images), and fine-tuned it with our small datasets. The model could classify images in test sets with 100% and 67% accuracy respectively. The observations were reported to the SmartTech-2017 conference.<br>
+														</div>
+														<div class="pull-right">
+														<a href="https://github.com/hritik25/DRDO-Fake-Currency-Identification">
+															<button class="btn btn-primary" >View On Github</button>
+														</a>
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														Modelling sentences using Convolutional Neural Networks
+	 													</h3>
+	 													<div class="">
+															Implemented a Dynamic Convolutional Neural Network architecture which achieves semantic modelling of sentences and can be used in Sentiment Analysis and Machine Translation. One epoch of training resulted in accuracy of 78%, against the well-trained model’s 87% on the same dataset as reported in the original research paper. Phase-II of project will focus on the possible improvements in this model, and application to relevant NLP problems.
+														</div>
+														<div class="pull-right">
+														<a href="https://github.com/hritik25/Dynamic-CNN-for-Modelling-Sentences">
+															<button class="btn btn-primary" >View On Github</button>
+														</a>
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														Music Recommendation using Acoustic Analysis & Machine Learning
+	 													</h3>
+	 													<div class="">
+															18 high level features including loudness, tempo were extracted with the Acoustic Analysis API (Echonest). Used Whitening followed by Neighbourhood Component Analysis (NCA) to apply a linear transform on the raw feature space, and the songs from various genres were embedded into a Euclidean metric space. k-nearest neighbours was used to classify/recommend songs.
+														</div>	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														word2vec-Theano
+	 													</h3>
+	 													<div class="">
+															Implemented a simple version of Mikolov et al.’s (Google) word2vec, using python library Theano for GPU optimization during training. This Skip-Gram model used Negative Sampling to learn the word embeddings, with 5 negative samples for each positive query word-context word sample. The model was trained on text from the Harry Potter Series, using vocabulary size = 10000, embedding dimension = 64 and Nesterov Momentum for updates. 10 epochs of training resulted in well learned word embeddings.
+														</div>
+														<div class="pull-right">
+														<a href="https://github.com/hritik25/word2vec-theano">
+															<button class="btn btn-primary" >View On Github</button>
+														</a>
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														Xerox Research Innovation Challenge 2016
+	 													</h3>
+	 													<div class="">
+															The aim was to predict risk of death (mortality) in patients admitted to intensive care units (ICU) within hospitals, given the time-series data of 6 Vitals and 25 Lab Investigations as variables. Extracted relevant statistical features from these variables and used the AdaBoost boosting algorithm with decision trees as the weak learners. Achieved <b>sensitivity = 0.352, specificity = 0.989</b> and <b>accuracy = 0.945</b> on final evaluation.
+														</div>
+														<div class="pull-right">
+														<a href="https://github.com/hritik25/Xerox_Research_Innovation_Challenge-16">
+															<button class="btn btn-primary" >View On Github</button>
+														</a>
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 														Disabling MAC Learning per VLAN 
+	 													</h3>
+	 													<div class="">
+															Completed this project as a summer intern in <b>Arista Networks</b>. Added support for disabling MAC Learning per VLAN on two of the chips used in switches developed by Arista. This functionality is desired for providing pseudo-wire support for VXLAN (Virtual Extensible Lan). Wrote breath tests and a product test for the reactors and helpers created.
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+
+	 											<div class="jumbotron" style="display: block;"> 
+	 												<div class="container"> 
+	 													<h3>
+	 										 				Data Analysis 
+	 													</h3>
+	 													<div class="">
+															Used three different classifiers, k-NN, Naïve Bayes and Decision Tree on the "Census Income" dataset (archived in UCI ML repository) for the task of predicting whether or not the income of a person exceeds $50K/year. Compared and evaluated the performance of the three classifiers based on various factors such as size of the dataset, types of attributes, etc.
+														</div>
+														<div class="pull-right">
+														<a href="https://github.com/hritik25/dtahttps://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwiQkP7Ml-LRAhXGr48KHWmoDnkQFggwMAI&url=http%3A%2F%2Fwww.drdo.gov.in%2F&usg=AFQjCNEaFBahmXOJWYR8t-Bhy9NdB0yYGw">
+															<button class="btn btn-primary" >View On Github</button>
+														</a>
+														</div>
+	 													 
+	 												</div> 
+	 											</div>
+ 												
+ 											</div>
+
+ 											</div>
+
+ 											<div id="inspiration" style="display: none;">
+ 												<div class="jumbotron">
+	 												<div class="container">
+	 													<h2>Here's some really inspiring(or maybe not) stuff from the future!</h2>
+	 												</div>
+	 												<br><br>
+	 												<div class="row">
+	 													<div class="col-md-6" style="padding-left:35px">
+ 															<iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="420" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+														</div>
+														<div class="col-md-6">
+															Sam Harris will make you believe otherwise by the end of his talk. He talks about how building a super intelligent AI is a race amongst those who can do it, and it will be done, inevitably. It's a matter of time. But in a race, 'easy' is the focus. And if at the INITIAL stage, if control is compromised in pursuit of the 'easy', then it can be scary. Humans will be the new ants.
+														</div>
+ 													</div>
+
+ 													<br><br>
+	 												<div class="row">
+	 													<div class="col-md-6" style="padding-left:35px">
+ 															<iframe src="https://embed.ted.com/talks/ray_kurzweil_get_ready_for_hybrid_thinking" width="420" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+														</div>
+														<div class="col-md-6">
+															Bold claims! But here's Ray Kurzweil again, with some of his recent predictions. You can't help but imagine!
+														</div>
+ 													</div>
+
+ 													<br><br>
+	 												<div class="row">
+	 													<div class="col-md-6" style="padding-left:35px">
+ 															<iframe src="https://embed.ted.com/talks/kevin_kelly_how_ai_can_bring_on_a_second_industrial_revolution" width="420" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+														</div>
+														<div class="col-md-6">
+															Kevin Kelly provides an insight into how AI will create more jobs than it will take away. The video addresses the skepticism growing around AI.
+														</div>
+ 													</div>
+	 											</div>
+	 											<div class="jumbotron">
+	 												<div class="text-center"">
+	 													<h2>Pranav Mistry : My introduction to the cool future of technology.</h2>
+	 												</div>
+	 												<br><br>
+	 												<div class="row">
+	 													<div class="text-center">
+ 															<iframe src="https://embed.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology" width="420" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+														</div>
+ 													</div>
+
+ 													<br><br>
+	 											</div>
+
+	 											<div class="jumbotron text-center">
+	 												<div class="container">
+	 													The two research papers below are from the <i><b>Brain Image Analysis Research Group, CMU</b></i> headed by <i><b>Tom Mitchelle. </b></i>The paper on the right received the <b>Best Foundation Paper Award</b>. The work in these papers and the observations therein opened my eye to amazing world of Computational Neuroscience, and the usefulness of Machine Learning in this novel field.
+	 												</div>
+	 												<br><br>
+	 												<div class=" row text-center">
+	 													<div class="col-md-6" style="padding-left:35px">
+ 															<iframe src="https://drive.google.com/file/d/0B4Z2WMJh0DB6andEQi1UVjJNVzA/preview" width="460" height="360"></iframe>
+														</div>
+														<div class="col-md-6">
+															<iframe src="https://drive.google.com/file/d/0B4Z2WMJh0DB6d2JiMFg5M0pHYlk/preview" width="460" height="360"></iframe>
+														</div>
+													
+ 													</div>
+	 											</div>
+
+ 											</div>
+
+ 											
+
+ 											<div id="interests" style="display: none;">
+ 												<div class="jumbotron">
+	 												My current research interest lies in studying Convolutional Neural Network Architectures. The question : "Is the selected CNN optimal for the dataset in terms of accuracy and model size?" is of great importance in deep learning research in the present time. I am working under the mentorhship of Dr. S.K. Pal (DRDO, New Delhi), with this question as our research focus. Here is some interesting and encouraging research in this area:
+
+	 												<div class="container" style="padding: 10px">
+	 												<ul>
+														
+
+														<li><a href='https://arxiv.org/pdf/1606.07326v3.pdf'>DropNeuron</a>: In this paper, they improvised on the Regularization part. Instead of regularizing each single weight separately in all the layers, they applied a grouping effect on incoming and outgoing weights of a neuron during regularisation to drop the neuron completely from the network. This could achieve a compression rate of above 60% in case of their CNN experiment !</li><br>
+
+														<li><a href='https://arxiv.org/pdf/1701.00299.pdf'>Dynamic DNNs</a>: They have done some really interesting work in the research. They combined the conventional back-propagation with reinforcement learning to train a 'control' module which, depending on the input can choose to skip some part of the network and thus save the computation for that part. Their focus was to optimize accuracy-efficiency cut-offs and through a number of experiments they proved that their Dynamic DNN could achieve it. They implemented it with a well-known library Torch. Moreover, this DDNN is deterministic, in contrast to the other stochastic approached they reference in the paper which have been tried along this line of research.</li><br>
+
+														<li><a href='https://arxiv.org/pdf/1604.07043v3.pdf'>CNNVis</a>: They created a visual analytics system to help researchers in diagnosing and refining CNNs by offline analysing 'snapsots' of a CNN cuptured during training. Advanced algorithms - rectangle packing, matrix reordering, edge bundling, biclustering were used.</li><br>
+
+														<li><a href='https://vision.cornell.edu/se3/wp-content/uploads/2016/08/boosted-convolutional-neural-1.pdf'>BoostCNN</a>: In this paper, they used the boosting concept where several weak-learners result in a strong learner. They experimented with CNNs with 8 different input size variations as the weak learners. In future work, they say that they plan to apply BoostCNN to general large scale classification datasets and include a more diverse set of networks with different depths and configurations to find the best structure. This research requires very heavy computing resources however.</li><br>
+													</ul>
+													</div>
+													</div>
+													<div class="jumbotron" class="container">
+	 												<div class="row">
+	 													<div class="col-md-3 col-md-offset-2" style="padding-left:35px">
+ 															<iframe src="https://docs.google.com/presentation/d/1HJGrxriFfD80HGHqaaPmQJtvGN0LRfqKZa02pBG7LJY/embed?start=false&loop=false&delayms=2000" frameborder="0" width="200" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+														</div>
+														<div class="col-md-5">
+															Owing to my curiosity towards understanding of the human brain, I am attracted towards Computational Neuroscience. Here's the presentation from a seminar which I delivered in my Department.
+														</div>
+ 													</div>
+	 												</div>
+	 											
+
+ 											</div> 
+ 										</div>
+ 									</div>
+ 								</div> 
+ 							</div> 
+ 						</div>
+ 					</div>
+ 				</div>
+ 			</div> 
+ 		</div>    
+ 	</body>
+</html>
+
+<script type="text/javascript">
+	function myFunction(id){
+		var elem = document.getElementById(id);
+		elem.style.display = 'block';
+
+		if(id == 'aboutMe'){
+			var project = document.getElementById('project');
+			var inspiration = document.getElementById('inspiration');
+			var interests = document.getElementById('interests');
+			project.style.display = 'none';
+			inspiration.style.display = 'none';
+			interests.style.display = 'none';
+		}
+		else if(id == 'project'){
+			var aboutMe = document.getElementById('aboutMe');
+			var inspiration = document.getElementById('inspiration');
+			var interests = document.getElementById('interests');
+			aboutMe.style.display = 'none';
+			inspiration.style.display = 'none';
+			interests.style.display = 'none';
+		}
+		else if(id == 'inspiration'){
+			var project = document.getElementById('project');
+			var aboutMe = document.getElementById('aboutMe');
+			var interests = document.getElementById('interests');
+			project.style.display = 'none';
+			aboutMe.style.display = 'none';
+			interests.style.display = 'none';
+		}
+		else if(id == 'interests'){
+			var project = document.getElementById('project');
+			var aboutMe = document.getElementById('aboutMe');
+			var inspiration = document.getElementById('inspiration');
+			project.style.display = 'none';
+			aboutMe.style.display = 'none';
+			inspiration.style.display = 'none';
+		}
+	}
+</script>
+=======
+---
+layout: default
+title: Home
+---
+
+Hi there!
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+>>>>>>> 422bb6f22f46ede92ce88aa9c4d8570e0924bce7
