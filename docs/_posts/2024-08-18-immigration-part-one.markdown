@@ -7,7 +7,7 @@ categories: growth
 
 Building a life in the US as an Asian immigrant is fraught with challenges. I knew that. To get to work and live there, you need to win a lottery. I signed up for all of it. Five years later, I just lived through the most soul crushing experience of my otherwise privileged life. With the expiration of my student VISA, the legal immigration machine filtered me out. Thank you for your service. Months later, I still find myself yearning to be back in the states, to put it mildly. And I can't, not so soon. 
 
-The idea with this brain dump is to potentially channel some perspective from within, own the cards that have been dealt, and make peace with the path ahead. So a disclaimer before the dump begins - the following paragraphs are a rant, with some sanity towards the end. Here goes.
+The idea with this two-part brain dump is to potentially channel some perspective from within, own the cards that have been dealt, and make peace with the path ahead. So a disclaimer before the dump begins - the following paragraphs are a rant, with some sanity towards the end. Here goes.
 
 After a highly engaging graduate degree experience in New York City, I got to resume and also start living the most animated years of my life at the dawn of 2021. Sadly, there were only three of those. I was not picked in the H1B lottery in the four attempts made so far, and my student VISA (F1 STEM-OPT) expired in February this year. Although being on the wrong side of luck four times with the H1B is quite unfortunate (about 30% chance I believe), it was well within the realm of my imagination. As the next step, I was supposed to move to Canada as a contingency plan for a year. This is where it all went downhill. My employer's work permit application to the Canadian immigration authorities took five months to process when they advertise the processing times as two weeks under the "[global skills strategy](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/global-skills-strategy.html)" program. With the VISA expiration, I had no choice but to uproot my life to leave the US by a deadline.
 
@@ -17,9 +17,9 @@ It's a massive psychological burden to make peace with all this time lost, and t
 
 Alright, so what would be an ideal case of getting back to the US?
 Ideal would be 
-1) as soon as possible, 
-2) with a legal status that's either not dependent on an employer, or if so, guarantees a green card in not more than 2-3 years.
-3) as a side effect of pursuing career aspirations that I'd have pursued as if immigration was a non-issue (I say this tongue in cheek, because I've lost count to how many exciting interview opportunities with US startups I've lost for not having an H1B VISA)
+1. as soon as possible, 
+2. with a legal status that's either not dependent on an employer, or if so, guarantees a green card in not more than 2-3 years.
+3. as a side effect of pursuing career aspirations that I'd have pursued as if immigration was a non-issue (I say this tongue in cheek, because I've lost count to how many exciting interview opportunities with US startups I've lost for not having an H1B VISA)
 
 Those three specifications would make up for an ideal case, or in case of a non-Asian immigrant, the fairly accessible case. Number two is only possible with a Canadian citizenship, an O1 VISA, an EB1 green card, or the EB5 green card. This last one, EB5, is essentially buying a green card for a million dollars. I'm not sure if I could even relate to this brain dump if I had that amount of money to begin with. I will some day, but this route doesn't appeal to me. Getting the Canadian citizenship once I have a PR on the other end, is another waiting game, but one that will take me past 34-35, the age of family planning. Pure waiting games like this have too much of an opportunity cost. O1 and EB1 are the real deal. O1 is a VISA, and EB1 is a green card. Getting an O1 would be a peak in career, and EB1A is the summit of that mountain. Their appeal lies in rewarding merit - you are the mountain climber. I'll get to what I know about what it takes to get these VISAs in the follow-up post.
 
