@@ -2,7 +2,6 @@
 layout: post
 title:  "Dark side of legal immigration and longing for the US"
 date:   2024-08-18 15:00:00 -0500
-categories:
 ---
 
 Building a life in the US as an Asian immigrant is fraught with challenges. I knew that. To get to work and live there, you need to win a lottery. I signed up for all of it. Five years later, I just lived through the most soul crushing experience of my otherwise privileged life. With the expiration of my student VISA, the legal immigration machine filtered me out. Thank you for your service. Months later, I still find myself yearning to be back in the states, to put it mildly. And I can't, not so soon. 
