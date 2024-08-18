@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dark side of legal immigration and longing for the US"
-date:   2024-08-18 15:00:00 -0500
+date: 2024-08-18 15:00:00 -0500
 categories: growth
 ---
 
