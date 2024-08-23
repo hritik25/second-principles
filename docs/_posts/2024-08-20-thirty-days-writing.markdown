@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thirty days of writing to retain"
-date: 2024-08-21 15:00:00 -0430
+date: 2024-08-21 15:00:00 +0530
 ---
 I plan to write a little everyday for the next thirty days. This is motivated by a bunch of intersecting objectives - to experiment with a writing practice, to develop a foundational understanding of investing, and to have a flow activity to wake up to and start the day with. I recently picked up the all-time classic "The Intelligent Investor". I had been reading JL Collins' [stock series](https://jlcollinsnh.com/stock-series/) intermittently for the past couple of days when I found this beauty shoved in a cabinet at my native home (my gracious shelter until the pending move to Canada). Over the years, I have gotten pretty bad at retaining the core ideas from all those educational books I've read. And often I find myself reading books on my phone mindlessly, as the internet has washed away any aesthetic boundaries between legitimate published books and legitimate rubbish. *Writing to retain* as the motto will be my countermeasure to all of that. At least for the next thirty days of reading. And recalling the gist to put it down in my own words will be my countermeasure to getting lazy and using the text verbatim. So for the next thirty days, I am going to chronicle *what I retain* of my readings. Every single day without fail is very idealistic and close to impractical. So we're shooting for never missing twice, and at least five days a week. By the end of reading of this book and the stock series of blogposts, I will have updated my portfolio with the knowledge I *retain*.
 
