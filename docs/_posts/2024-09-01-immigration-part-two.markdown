@@ -1,0 +1,5 @@
+It's helpful to start with some facts and likely possibilities. For the next two years, it's highly unlikely that I will be back in the US. The only way that can happen is if I get picked in the H1B lottery. If I change employers in Canada before April next year, they will mostly not even apply for the H1B unless we strike some explicit agreement or if it's, say, a US-based startup that views Canada employment as temporary to begin with. In any case, the whole H1B situation has taken a major toll on my peace of mind, so I've decided to let it go. It's for the best. With that out of the way, 
+  
+What do I need to build a life in the US? The answer is a) valid work VISA while I wait out the green card process, and b) an assurance that I'll have the green card at some point.
+
+a) I stick it out with my company (assuming no layoff), become a manager, then stay out of the US for a year, come back on the L1A VISA, and apply for the EB1C green card. Becoming a manager could take two to three years from now. On the whole, this could easily take six years at the least. But this is also the most reliable path of the three. 
