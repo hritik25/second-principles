@@ -24,5 +24,6 @@ This chapter is all about the stock market cycles that transpired in the 20th ce
 If the investor is in doubt as to which course to pursue he should choose the path of caution.
 1. No borrowing to buy or hold securities
 2. No increase in the proportion of funds held in common stocks.
-3. A reduction in common-stock holdings if required to get it under 50% of the total portfolio. Capital gains must be invested in first-quality bonds or held as savings deposit. \
+3. A reduction in common-stock holdings if required to get it under 50% of the total portfolio. Capital gains must be invested in first-quality bonds or held as savings deposit.
+
 The author then self-rated this conservative counsel as vindicated with the fall that transpired in 1970. But he acknowledges that, and this was the philosophy laid out in Introduction, a consistent policy to hold broad market stock funds, and to not try to "beat the market" and "pick the winners" is more useful than these granular pieces of advice every five years. He then notes that the stock dividend yield to bond yeild ratio of two completely flipped from from 1948 to 1972 in favor of bonds, and this adverse change offsets the better P/E ratios. Interesting to me so far in this book has been the emphasis on dividend yields, which I don't really hear about much in today's folklore. Are there fewer public companies doing divideds today, or is dividend yield very instrumental to Graham's value investment philosophy?
