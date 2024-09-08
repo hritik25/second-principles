@@ -48,8 +48,8 @@ a) is exciting to me,\
 b) is rewarding in its own right, adds to personal fulfillment and impact - expertise in my field, leadership experience towards a founding role, networking with other passionate people\
 c) is immediately actionable (i.e. for which I can think of some next steps), and\
 d) *also* boosts EB1 prospects
-
-And here's how that criteria could translate to general guidance on and off the job, in order of ROI:
+ 
+This criteria applies to the following general guidance that is based off of the roadmap above, on and off the job, in order of expected ROI:
 - **On the job**
 	1. aggressively seek out and grab projects where the work would lend itself well to sharing with the industry, and/or is novel and significant enough for a publication
 	2. \[throughout] build and demonstrate leadership skills towards a managerial path - helpful for both EB1C and a founding role 
