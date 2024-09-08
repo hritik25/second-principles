@@ -49,7 +49,7 @@ b) is rewarding in its own right, adds to personal fulfillment and impact - expe
 c) is immediately actionable (i.e. for which I can think of some next steps), and\
 d) *also* boosts EB1 prospects
  
-This criteria applies to the following general guidance that is based off of the roadmap above, on and off the job, in order of expected ROI:
+This criteria applies to the following general guidance that is based off of the roadmap above, in order of expected ROI:
 - **On the job**
 	1. aggressively seek out and grab projects where the work would lend itself well to sharing with the industry, and/or is novel and significant enough for a publication
 	2. \[throughout] build and demonstrate leadership skills towards a managerial path - helpful for both EB1C and a founding role 
