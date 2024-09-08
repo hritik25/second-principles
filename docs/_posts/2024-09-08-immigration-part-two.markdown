@@ -31,7 +31,7 @@ Now, if [tyranny of place](https://x.com/thefernandocz/status/183133045347280520
 hone my niche through rapid hands-on experimentation
  ||
  \/
-in the process, build a public record of "leading expertise" to build leverage for networking with other passionate people in the field - publish impactful, industry-leading work frequently, present it to other practitioners through talks in conferences
+in the process, build a public record of "leading expertise" to build leverage for networking - publish impactful, industry-leading work frequently, present it to other practitioners through talks in conferences
  ||
  \/
 become a tech lead manager, or maybe a product manager if natural inclination guides there
