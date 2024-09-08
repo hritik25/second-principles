@@ -51,7 +51,7 @@ d) *also* boosts EB1 prospects
 
 And here's how that criteria could translate to general guidance on and off the job, in order of ROI:
 - **On the job**
-	1. aggressively seek out and grab projects where the work would lends itself well to sharing with the industry, and/or is novel and significant enough for a publication
+	1. aggressively seek out and grab projects where the work would lend itself well to sharing with the industry, and/or is novel and significant enough for a publication
 	2. \[throughout] build and demonstrate leadership skills towards a managerial path - helpful for both EB1C and a founding role 
 - **Off the job**
 	1. seek out and pursue interviewing opportunities, preferably within my immediate domain but not limited to it. The goal is to move to highly coveted places offering either higher pay or research roles. These locations, being magnets for great talent, are also fortuitous for entrepreneurship opportunities. 
