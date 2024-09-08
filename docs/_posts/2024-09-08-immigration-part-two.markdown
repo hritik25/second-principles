@@ -43,10 +43,10 @@ join a company as a founding engineer or co-found/found one myself
 become an investor to bring others' visionary ideas to life
 ```
 
-It's true of course that US has an order of magnitude higher volume of opportunities to accelerate progress on that roadmap, in addition to faster accumulation of wealth. But it is what it is. Canada is my base now. At this point, I've articulated quite a bit about how I see the immigration journey ahead. Since it's challenging to plan precisely several years ahead, I'll focus on goals for the time until I get the PR - the time I’m guaranteed to be spending in Canada. And **the short-term metric to optimize for, in my opinion, is what gets you energized, and what has you wholly immersed in the process**. Then among all options available at any decision point that can get me to the end goal, I should go with what:
+It's true of course that US has an order of magnitude higher volume of opportunities to accelerate progress on that roadmap, in addition to faster accumulation of wealth. But it is what it is. Canada is my base now. At this point, I've articulated quite a bit about how I see the immigration journey ahead. Since it's challenging to plan precisely several years ahead, I'll focus on goals for the time until I get the PR - the time I’m guaranteed to be spending in Canada. And **the short-term metric to optimize for, in my opinion, is what gets you energized, and what has you wholly immersed in the process**. Then among all options available at any decision point that can get me to the end goal, I should go with what:\
 a) is exciting to me,\
 b) is rewarding in its own right, adds to personal fulfillment and impact - expertise in my field, leadership experience towards a founding role, networking with other passionate people\
-c) is immediately actionable (i.e. for which I can think of some next steps), and
+c) is immediately actionable (i.e. for which I can think of some next steps), and\
 d) *also* boosts EB1 prospects
 
 And here's how that criteria could translate to general guidance on and off the job, in order of ROI:
