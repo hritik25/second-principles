@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Immigration part II: The path forward"
+title:  "Immigration - Part II: The path forward"
 date: 2024-09-08 15:00:00 +0550
 categories: immigration
 ---
