@@ -58,4 +58,7 @@ And here's how that criteria could translate to general guidance on and off the 
 	2. build a network to grow alongside and consistently put out work as an individual ML specialist
 	3. be on the lookout for highly rewarding founding team opportunities and keep building my network and reach in the entrepreneurship community
 
-All of that sounds great. But without diligent goal-setting, it could very well just stay a blob of words on a screen. Additionally, this general guidance will need to be revised as I hit one milestone after another (🤞). I also have to be stoic with random yet lucrative opportunities that show up frequently, but are not well aligned with the long-term roadmap. It'll enforce focus and save a lot of my time and energy. But at the same time I must use discretion to not stay bound to linear progression, and not miss out on early but disguised opportunities that lead to an asymmetric life. Or somewhere else altogether, like indulging in the creator economy maybe if that brings great joy.
+All of that sounds great. But without diligent goal-setting, it could very well just stay a blob of words on a screen. Additionally, this general guidance will need to be revised as I hit one milestone after another (🤞). I also have to be stoic with random yet lucrative opportunities that show up frequently, but are not well aligned with the long-term roadmap. It'll enforce focus and save a lot of my time and energy. But at the same time I must use discretion to not stay bound to linear progression, and not miss out on early but disguised opportunities that lead to an asymmetric life.
+<!--
+Or somewhere else altogether, like indulging in the creator economy maybe if that brings great joy :)
+--!>
